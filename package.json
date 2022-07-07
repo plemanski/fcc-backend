@@ -1,6 +1,6 @@
 {
-	"author": "Peter Lemanski",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Peter Lemanski",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
